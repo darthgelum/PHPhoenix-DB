@@ -4,7 +4,6 @@
     "keywords": ["database", "mysql", "postgresql", "sqlite"],
     "homepage": "https://github.com/darthgelum/PHPhoenix",
     "type": "library",
-    "license": "BSD",
     "authors": [
         {
             "name": "Roman Tsiupa",
